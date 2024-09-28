@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Amiri.ttf",
+      "sha1": "54761ecc5c999143024e969a8416465f91edc0e3"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSansArabic.ttf",
+      "sha1": "1fbb97720fa14853a4e2cb276638d792b0c5f251"
+    },
+    {
+      "path": "assets/fonts/Lateef.ttf",
+      "sha1": "62df3245d0effec8ac55fa4aed4f89ed28b17438"
+    },
+    {
+      "path": "assets/fonts/Mirza.ttf",
+      "sha1": "015ce0d9289ee2b94b9855ab1a68eba7696e844a"
+    },
+    {
+      "path": "assets/fonts/Sarem.ttf",
+      "sha1": "8a8e7da516eeebebf97190c5754bc54eb9499a6e"
+    },
+    {
+      "path": "assets/fonts/Scheherazade.ttf",
+      "sha1": "f1c4f5dc9e2e88d6280ca2b85caa8ec8b80d2352"
+    }
+  ]
+}

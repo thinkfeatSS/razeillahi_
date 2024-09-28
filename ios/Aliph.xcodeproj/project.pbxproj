@@ -14,6 +14,14 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Aliph-AliphTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Aliph-AliphTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		D5A721EBC1804373995FCCAD /* Amiri.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B9896722E8A45FE9B1D4579 /* Amiri.ttf */; };
+		5DDB01F1328843ED8C8D47CB /* Sarem.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E8262C6B0BD43E8A4692061 /* Sarem.ttf */; };
+		F82618C246134FEAAAEC712B /* Scheherazade.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 720ED65C8E7D425F888B4C32 /* Scheherazade.ttf */; };
+		D66CDF46ECC044B9830E8108 /* Lateef.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC3E07A1F39046A39E93A4EB /* Lateef.ttf */; };
+		C3AA55E3024C4318A69DC8CB /* Mirza.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64694A9761D44E8E9A029326 /* Mirza.ttf */; };
+		EBD420BB974B442EA2C26065 /* IBMPlexSansArabic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1890E3D2F96A4E51957EB547 /* IBMPlexSansArabic.ttf */; };
+		387164F09B954FC7822A0DA7 /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C402312F8DB14B338AC8A64B /* BootSplash.storyboard */; };
+		CBF7881DBAEC42879B9A4365 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A74AECE84494CD893ED044B /* Colors.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +53,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Aliph/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Aliph-AliphTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aliph-AliphTests.release.xcconfig"; path = "Target Support Files/Pods-Aliph-AliphTests/Pods-Aliph-AliphTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		7B9896722E8A45FE9B1D4579 /* Amiri.ttf */ = {isa = PBXFileReference; name = "Amiri.ttf"; path = "../assets/fonts/Amiri.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7E8262C6B0BD43E8A4692061 /* Sarem.ttf */ = {isa = PBXFileReference; name = "Sarem.ttf"; path = "../assets/fonts/Sarem.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		720ED65C8E7D425F888B4C32 /* Scheherazade.ttf */ = {isa = PBXFileReference; name = "Scheherazade.ttf"; path = "../assets/fonts/Scheherazade.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AC3E07A1F39046A39E93A4EB /* Lateef.ttf */ = {isa = PBXFileReference; name = "Lateef.ttf"; path = "../assets/fonts/Lateef.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		64694A9761D44E8E9A029326 /* Mirza.ttf */ = {isa = PBXFileReference; name = "Mirza.ttf"; path = "../assets/fonts/Mirza.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1890E3D2F96A4E51957EB547 /* IBMPlexSansArabic.ttf */ = {isa = PBXFileReference; name = "IBMPlexSansArabic.ttf"; path = "../assets/fonts/IBMPlexSansArabic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C402312F8DB14B338AC8A64B /* BootSplash.storyboard */ = {isa = PBXFileReference; name = "BootSplash.storyboard"; path = "Aliph/BootSplash.storyboard"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1A74AECE84494CD893ED044B /* Colors.xcassets */ = {isa = PBXFileReference; name = "Colors.xcassets"; path = "Aliph/Colors.xcassets"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = folder.assetcatalog; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +110,8 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				C402312F8DB14B338AC8A64B /* BootSplash.storyboard */,
+				1A74AECE84494CD893ED044B /* Colors.xcassets */,
 			);
 			name = Aliph;
 			sourceTree = "<group>";
@@ -124,6 +142,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				851BBFC0792C49C387FC9B4A /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +168,20 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		851BBFC0792C49C387FC9B4A /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				7B9896722E8A45FE9B1D4579 /* Amiri.ttf */,
+				7E8262C6B0BD43E8A4692061 /* Sarem.ttf */,
+				720ED65C8E7D425F888B4C32 /* Scheherazade.ttf */,
+				AC3E07A1F39046A39E93A4EB /* Lateef.ttf */,
+				64694A9761D44E8E9A029326 /* Mirza.ttf */,
+				1890E3D2F96A4E51957EB547 /* IBMPlexSansArabic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +278,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D5A721EBC1804373995FCCAD /* Amiri.ttf in Resources */,
+				5DDB01F1328843ED8C8D47CB /* Sarem.ttf in Resources */,
+				F82618C246134FEAAAEC712B /* Scheherazade.ttf in Resources */,
+				D66CDF46ECC044B9830E8108 /* Lateef.ttf in Resources */,
+				C3AA55E3024C4318A69DC8CB /* Mirza.ttf in Resources */,
+				EBD420BB974B442EA2C26065 /* IBMPlexSansArabic.ttf in Resources */,
+				387164F09B954FC7822A0DA7 /* BootSplash.storyboard in Resources */,
+				CBF7881DBAEC42879B9A4365 /* Colors.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
